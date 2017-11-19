@@ -5,8 +5,8 @@ public class Helloworld {
 public static void main(String[] args) {
    System.out.println("Hello World, i'am Kwan");
    System.out.println("varunya sudjun");
-   System.out.println("Information");
-   System.out.println("MT: RMUTSV");
+   System.out.println("Information Ststem ,mt: rmutsv");
+
 
 
 
