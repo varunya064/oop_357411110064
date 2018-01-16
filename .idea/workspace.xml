@@ -536,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516070282154</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Midterm3.1">
+      <created>1516073046964</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1516073046964</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -617,7 +624,8 @@
     <MESSAGE value="Test Array ID" />
     <MESSAGE value="InputDataToArray" />
     <MESSAGE value="myString" />
-    <option name="LAST_COMMIT_MESSAGE" value="myString" />
+    <MESSAGE value="Midterm3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Midterm3.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
