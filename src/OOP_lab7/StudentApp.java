@@ -10,7 +10,7 @@ public class StudentApp {
         student1.setId("111111111111");
         student1.setMajor("Information System");
         student1.setFaculty("Manaement Technoloay");
-        student1.setName("Sam");
+        student1.setName("kwan");
 
         System.out.println( student1.toString());
 
