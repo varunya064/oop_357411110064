@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d8d7192-b10b-4ce4-b173-47f4fa68eaef" name="Default" comment="StudentApp">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOP_lab7/SuperCer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OOP_lab7/mySuperCar.java" />
+    <list default="true" id="7d8d7192-b10b-4ce4-b173-47f4fa68eaef" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOP_lab7/Student.java" afterPath="$PROJECT_DIR$/src/OOP_lab7/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OOP_lab7/StudentApp.java" afterPath="$PROJECT_DIR$/src/OOP_lab7/StudentApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuperCer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SuperCer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP_lab7/SuperCer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -86,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP_lab7/mySuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
@@ -635,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516677531704</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="SuperCer">
+      <created>1516681862600</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1516681862600</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -724,7 +727,8 @@
     <MESSAGE value="Student" />
     <MESSAGE value="midterm3.3" />
     <MESSAGE value="StudentApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="StudentApp" />
+    <MESSAGE value="SuperCer" />
+    <option name="LAST_COMMIT_MESSAGE" value="SuperCer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1123,14 +1127,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_lab7/mySuperCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_lab7/SuperCer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1157,6 +1153,14 @@
             <element signature="e#1677#1678#0" expanded="true" />
             <element signature="e#1715#1716#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_lab7/mySuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
