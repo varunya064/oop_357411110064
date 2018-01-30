@@ -711,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517282336907</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="PersonInfo">
+      <created>1517283093206</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1517283093206</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -801,9 +808,9 @@
     <MESSAGE value="mySuperCer" />
     <MESSAGE value="Inheritance:student extends person" />
     <MESSAGE value="person" />
-    <MESSAGE value="PersonInfo" />
     <MESSAGE value="Employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
+    <MESSAGE value="PersonInfo" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonInfo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
