@@ -8,6 +8,8 @@ public class Myperson {
         //person
         person person=new person("12345","kwan",address,job);
         System.out.print(person.toString());
-
+        person.getJob().setSalary(25000);
+        System.out.print(person.getJob().getSalary());
+        System.out.println(person.getAddress().getPostCode());
     }
 }
